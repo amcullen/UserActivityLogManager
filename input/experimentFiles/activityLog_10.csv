@@ -1,0 +1,1025 @@
+USERNAME, TIMESTAMP, ACTION, RESOURCE
+hflovell, 11/24/2016 12:35:49PM, view, patient specific instructions A1241
+akbonilla, 08/15/2016 05:04:48AM, view, patient specific instructions A1241
+hqcooney, 04/03/2016 03:34:14PM, view, patient specific instructions A1241
+hflovell, 07/09/2016 10:17:34AM, view, patient specific instructions A1241
+hqcooney, 05/02/2017 06:19:21PM, view, office visit OV02769
+hqcooney, 08/24/2017 05:00:54AM, view, office visit OV02769
+hflovell, 11/01/2015 09:49:23AM, view, office visit OV02769
+gphsu, 07/23/2016 01:47:24AM, view, office visit OV02769
+gphsu, 05/24/2015 05:15:16AM, view, notification NX0885
+gphsu, 03/08/2017 12:32:30AM, view, notification NX0438
+gphsu, 11/25/2017 06:35:40AM, view, notification NX0438
+hqcooney, 06/10/2015 10:28:21AM, view, notification NX0438
+hflovell, 07/27/2015 09:09:32PM, view, notification NX0438
+gphsu, 07/12/2016 04:39:11AM, view, message M4857
+hflovell, 12/21/2017 01:21:38AM, view, message M4857
+pdferrari, 03/26/2017 06:47:59AM, view, message M3763
+pdferrari, 10/01/2015 09:42:18PM, view, message M3763
+hflovell, 09/14/2017 05:59:48PM, view, message M3763
+gphsu, 02/06/2016 09:42:15AM, view, ICD Code 142
+gphsu, 12/24/2015 02:01:51AM, update, system alert CA02613
+akbonilla, 05/24/2017 05:40:02AM, update, system alert CA02613
+hflovell, 11/21/2017 09:10:13PM, update, system alert CA02613
+hqcooney, 10/01/2016 08:54:04PM, update, office visit OV05156
+pdferrari, 10/18/2016 03:48:18PM, update, office visit OV02359
+pdferrari, 11/10/2017 09:38:11PM, update, office visit OV02359
+hqcooney, 06/12/2015 08:37:55AM, update, office visit OV02359
+akbonilla, 01/21/2017 04:47:23PM, update, office visit OV02359
+pdferrari, 08/13/2017 12:09:49AM, update, office visit OV02359
+hqcooney, 04/25/2017 01:01:39AM, update, office visit OV02359
+akbonilla, 03/12/2017 11:37:48AM, update, office visit OV02359
+hqcooney, 12/27/2016 04:34:19AM, update, office visit OV02359
+hflovell, 10/04/2016 04:51:06AM, update, office visit OV02359
+akbonilla, 06/14/2015 11:33:09AM, update, office visit OV02359
+gphsu, 08/12/2015 06:48:58AM, update, office visit OV02359
+hflovell, 11/10/2015 01:28:56PM, update, office visit OV02359
+hflovell, 09/03/2016 10:01:49AM, update, office visit OV02359
+akbonilla, 06/12/2017 05:32:44AM, update, office visit OV02359
+pdferrari, 04/17/2016 11:49:48AM, update, office visit OV02359
+akbonilla, 02/24/2017 08:42:28AM, update, office visit OV02359
+pdferrari, 11/25/2017 03:13:29PM, update, office visit OV02359
+gphsu, 06/04/2016 02:04:46PM, update, office visit OV02359
+hflovell, 08/24/2015 02:02:27AM, update, office visit OV02359
+pdferrari, 07/18/2015 06:12:54AM, update, office visit OV02359
+akbonilla, 05/21/2015 03:27:13PM, update, office visit OV02359
+hflovell, 03/13/2016 02:14:58PM, update, office visit OV02359
+hflovell, 12/11/2015 06:59:29PM, update, office visit OV02359
+akbonilla, 07/07/2016 01:40:15AM, update, office visit OV02359
+hflovell, 08/27/2016 04:36:09AM, update, office visit OV02359
+hflovell, 08/18/2015 11:45:05PM, update, office visit OV02359
+akbonilla, 09/04/2017 02:54:15PM, update, office visit OV02359
+gphsu, 01/01/2015 07:34:06PM, update, office visit OV02359
+gphsu, 03/23/2015 01:33:08PM, update, office visit OV02359
+gphsu, 02/04/2015 04:26:05AM, update, office visit OV02359
+hqcooney, 01/09/2016 10:41:42PM, update, office visit OV02359
+hflovell, 10/06/2016 08:43:55AM, update, office visit OV02359
+pdferrari, 09/18/2016 03:38:40AM, update, notification NX1668
+pdferrari, 10/17/2017 02:24:58PM, update, notification NX1668
+hflovell, 10/02/2017 07:19:22AM, update, notification NX1668
+akbonilla, 01/11/2016 07:03:57AM, update, notification NX1668
+akbonilla, 11/05/2017 08:26:52PM, update, notification NX1668
+hflovell, 05/24/2016 08:58:35AM, update, notification NX1668
+pdferrari, 07/11/2016 12:08:26AM, update, notification NX1668
+gphsu, 07/19/2015 06:23:10AM, update, notification NX1668
+akbonilla, 07/05/2015 12:10:04AM, update, notification NX1668
+akbonilla, 06/25/2015 12:45:13PM, update, notification NX1668
+hflovell, 04/20/2016 09:43:40PM, update, notification NX1668
+pdferrari, 08/06/2017 06:20:33AM, update, notification NX1668
+pdferrari, 06/20/2015 05:23:06PM, update, notification NX1668
+hflovell, 08/16/2015 04:41:50PM, update, notification NX1668
+hqcooney, 01/05/2016 05:13:28PM, update, notification NX1668
+gphsu, 06/17/2016 07:52:09PM, update, notification NX1668
+gphsu, 11/16/2017 07:17:59PM, update, notification NX1668
+pdferrari, 08/14/2015 07:13:17AM, update, notification NX1668
+pdferrari, 10/26/2016 01:31:04PM, update, notification NX1668
+pdferrari, 10/04/2017 07:41:34AM, update, notification NX1668
+hqcooney, 07/02/2017 03:34:25PM, update, notification NX1668
+hqcooney, 04/13/2016 08:26:45PM, update, notification NX1668
+akbonilla, 08/07/2017 10:42:04PM, update, notification NX1668
+gphsu, 09/24/2017 04:30:25PM, update, notification NX1668
+pdferrari, 05/03/2017 02:52:53AM, update, notification NX1668
+hqcooney, 05/25/2015 07:32:38AM, update, appointment A004845
+hflovell, 02/24/2016 06:48:49AM, update, appointment A003114
+hqcooney, 05/05/2016 03:18:39AM, update, appointment A001696
+akbonilla, 12/06/2016 08:23:40PM, update, ICD-9 Code 1079
+akbonilla, 11/10/2015 02:38:21AM, unmerge, office visit OV04995
+pdferrari, 04/17/2016 06:31:43AM, unmerge, notification NX2607
+gphsu, 02/11/2015 10:57:33AM, unmerge, notification NX2607
+hqcooney, 04/03/2017 11:29:41AM, unmerge, notification NX2607
+gphsu, 03/19/2016 12:54:12PM, unmerge, notification NX2607
+hflovell, 05/03/2015 05:39:20PM, unmerge, notification NX2607
+akbonilla, 06/09/2017 05:18:42PM, unmerge, notification NX2607
+pdferrari, 03/16/2016 04:23:09PM, unmerge, notification NX2607
+hqcooney, 01/03/2015 11:56:59PM, unmerge, notification NX2607
+pdferrari, 03/09/2016 10:09:21AM, unmerge, notification NX2607
+hqcooney, 09/07/2015 02:00:51AM, unmerge, notification NX2607
+hqcooney, 11/14/2017 12:56:48AM, unmerge, notification NX2607
+gphsu, 05/25/2015 01:01:18AM, unmerge, notification NX2607
+akbonilla, 09/14/2016 02:42:08PM, unmerge, notification NX2607
+gphsu, 09/06/2015 05:08:33AM, unmerge, notification NX2607
+pdferrari, 01/25/2016 05:01:11AM, unmerge, notification NX0349
+hqcooney, 01/15/2017 09:05:23PM, unmerge, message M5114
+akbonilla, 07/13/2016 05:41:36PM, unmerge, message M3492
+pdferrari, 05/01/2016 08:08:44PM, unmerge, appointment A004017
+akbonilla, 06/05/2017 10:58:02PM, unmerge, appointment A004017
+hqcooney, 02/27/2017 07:50:51AM, unmerge, appointment A002033
+gphsu, 01/10/2015 05:07:30AM, unmerge, appointment A002033
+pdferrari, 02/23/2016 07:29:21PM, unmerge, appointment A002033
+hqcooney, 08/07/2017 01:55:48PM, unmerge, appointment A002033
+gphsu, 04/09/2017 08:01:32AM, unmerge, appointment A002033
+gphsu, 06/24/2016 01:41:08AM, unmerge, HL7 Code 371
+hqcooney, 04/04/2015 01:55:46PM, unmerge, CPT Code 88
+pdferrari, 07/26/2015 05:40:09PM, unmerge, CPT Code 88
+akbonilla, 12/07/2015 06:01:20PM, unmerge, CPT Code 88
+hflovell, 07/04/2015 08:36:19AM, unmerge, CPT Code 88
+pdferrari, 12/08/2015 10:56:51AM, unmerge, CPT Code 88
+hflovell, 10/14/2015 09:43:54PM, unmerge, CPT Code 88
+hqcooney, 11/09/2017 09:22:10PM, unmerge, CPT Code 88
+hqcooney, 01/13/2017 03:27:23AM, unmerge, CPT Code 88
+hqcooney, 08/09/2017 06:12:30AM, unmerge, CPT Code 88
+pdferrari, 03/02/2016 06:26:11PM, unmerge, CPT Code 88
+gphsu, 02/20/2015 07:21:00AM, unmerge, CPT Code 88
+pdferrari, 12/07/2016 12:08:11PM, sort, office visit OV03905
+pdferrari, 02/05/2016 07:39:44AM, sort, office visit OV03905
+hqcooney, 01/08/2015 03:25:20AM, sort, office visit OV03905
+pdferrari, 06/16/2017 10:28:40PM, sort, office visit OV03364
+akbonilla, 01/15/2016 03:28:11AM, sort, office visit OV03364
+hqcooney, 04/27/2015 09:26:19PM, sort, office visit OV03364
+hqcooney, 12/10/2015 10:22:47PM, sort, office visit OV03364
+hqcooney, 04/06/2016 11:08:07PM, sort, office visit OV03364
+akbonilla, 05/08/2015 02:40:10PM, sort, office visit OV03364
+akbonilla, 07/03/2017 11:27:16PM, sort, office visit OV03364
+akbonilla, 05/15/2015 02:37:51AM, sort, office visit OV03364
+hqcooney, 05/25/2017 10:16:20AM, sort, office visit OV03364
+gphsu, 06/26/2015 07:26:34AM, sort, office visit OV03364
+hflovell, 03/21/2017 07:08:31AM, sort, office visit OV03364
+hqcooney, 03/14/2017 05:54:59PM, sort, office visit OV03364
+akbonilla, 05/05/2016 10:17:47AM, sort, office visit OV03364
+hqcooney, 07/26/2016 10:02:32PM, sort, office visit OV03364
+hqcooney, 11/05/2016 09:53:33PM, sort, office visit OV03364
+hflovell, 06/18/2015 09:24:57AM, sort, office visit OV03364
+gphsu, 07/08/2016 11:33:07PM, sort, office visit OV03364
+pdferrari, 05/16/2015 04:05:10PM, sort, office visit OV03364
+akbonilla, 10/27/2016 04:08:43PM, sort, office visit OV03364
+gphsu, 04/10/2015 11:43:52AM, sort, office visit OV03364
+hflovell, 11/22/2015 02:02:38PM, sort, office visit OV03364
+pdferrari, 03/12/2015 06:16:06PM, sort, office visit OV03364
+hflovell, 04/17/2017 07:32:58PM, sort, office visit OV03364
+akbonilla, 05/23/2017 10:57:55PM, sort, office visit OV03364
+gphsu, 07/19/2017 05:16:38PM, sort, office visit OV03364
+hflovell, 03/24/2016 11:14:43AM, sort, office visit OV03364
+akbonilla, 06/26/2016 02:31:19PM, sort, office visit OV03364
+hflovell, 11/19/2015 01:25:25AM, sort, office visit OV02676
+pdferrari, 10/16/2015 09:14:54AM, sort, notification NX4730
+gphsu, 03/14/2015 03:07:17PM, sort, notification NX1303
+hflovell, 03/06/2016 12:34:42PM, sort, notification NX1303
+hflovell, 05/15/2017 12:55:28PM, sort, notification NX1303
+hqcooney, 09/02/2016 06:18:52AM, sort, notification NX1303
+akbonilla, 04/18/2016 02:00:42PM, sort, notification NX1303
+pdferrari, 01/06/2016 11:09:16PM, sort, message M5699
+pdferrari, 01/25/2017 12:21:08AM, sort, message M3142
+hflovell, 11/16/2016 10:19:38PM, sort, message M3142
+hflovell, 10/21/2016 07:46:08AM, sort, message M3142
+pdferrari, 07/24/2016 03:29:30AM, sort, message M3142
+pdferrari, 08/08/2016 07:52:37AM, sort, message M3142
+hflovell, 03/11/2015 07:54:02AM, sort, message M3142
+gphsu, 10/08/2016 07:18:34PM, sort, message M3142
+gphsu, 11/23/2016 07:06:42AM, sort, message M3142
+hqcooney, 02/08/2016 04:43:56PM, sort, message M3142
+pdferrari, 02/18/2017 03:55:32AM, sort, message M3142
+pdferrari, 06/03/2015 03:38:02AM, sort, message M3142
+pdferrari, 06/06/2016 05:59:00AM, sort, message M3142
+hqcooney, 01/25/2017 04:46:42AM, sort, message M3142
+hqcooney, 12/18/2016 03:46:51AM, sort, message M3142
+pdferrari, 03/16/2016 02:02:00PM, sort, message M3142
+gphsu, 04/21/2015 11:07:01PM, sort, message M3142
+gphsu, 01/11/2017 09:33:07PM, sort, message M3142
+akbonilla, 07/17/2015 04:58:26AM, sort, message M2005
+pdferrari, 02/25/2017 08:04:03PM, sort, ICD-10 Code 94
+pdferrari, 03/19/2015 06:03:42PM, sort, ICD-10 Code 318
+gphsu, 04/22/2015 11:04:24PM, schedule, system alert CA03248
+hqcooney, 04/26/2016 06:21:31AM, schedule, system alert CA00474
+pdferrari, 05/01/2015 11:17:56PM, schedule, system alert CA00474
+pdferrari, 04/18/2016 03:23:07AM, schedule, system alert CA00474
+hflovell, 06/05/2015 03:49:06PM, schedule, system alert CA00474
+gphsu, 09/02/2017 02:48:24AM, schedule, system alert CA00474
+gphsu, 11/26/2017 06:18:19PM, schedule, system alert CA00474
+gphsu, 07/06/2015 03:39:06PM, schedule, system alert CA00474
+gphsu, 10/06/2015 08:50:51PM, schedule, system alert CA00474
+gphsu, 06/18/2016 05:27:22AM, schedule, system alert CA00474
+hqcooney, 09/21/2016 11:43:24PM, schedule, system alert CA00474
+gphsu, 07/07/2017 04:12:19PM, schedule, system alert CA00474
+pdferrari, 06/12/2015 09:10:44AM, schedule, system alert CA00474
+hflovell, 10/04/2016 08:48:00AM, schedule, system alert CA00474
+hflovell, 03/12/2016 07:31:21PM, schedule, system alert CA00474
+hqcooney, 11/07/2017 11:12:32PM, schedule, system alert CA00474
+akbonilla, 12/19/2016 05:44:48PM, schedule, system alert CA00474
+hflovell, 10/07/2015 12:53:19AM, schedule, system alert CA00474
+gphsu, 05/16/2017 05:26:04PM, schedule, system alert CA00474
+hqcooney, 10/03/2017 04:14:19PM, schedule, system alert CA00474
+hflovell, 03/04/2017 05:26:07AM, schedule, system alert CA00474
+akbonilla, 05/25/2017 07:46:36AM, schedule, system alert CA00474
+pdferrari, 06/04/2016 03:38:08AM, schedule, system alert CA00474
+pdferrari, 08/12/2017 01:36:11PM, schedule, system alert CA00474
+gphsu, 10/04/2016 04:10:35AM, schedule, system alert CA00474
+hqcooney, 03/05/2016 03:03:28AM, schedule, system alert CA00474
+akbonilla, 03/19/2017 03:36:04PM, schedule, office visit OV02652
+hflovell, 09/24/2016 02:21:44PM, schedule, office visit OV02652
+hflovell, 03/21/2015 12:41:18AM, schedule, office visit OV02652
+hflovell, 12/16/2016 11:23:37PM, schedule, office visit OV02652
+gphsu, 01/18/2017 07:26:34PM, schedule, office visit OV02652
+akbonilla, 06/04/2015 02:31:17AM, schedule, office visit OV02652
+pdferrari, 07/20/2016 12:19:46AM, schedule, office visit OV02652
+hflovell, 06/05/2015 06:11:11PM, schedule, office visit OV02652
+akbonilla, 11/09/2015 01:13:22AM, schedule, office visit OV02652
+hflovell, 10/05/2015 11:56:54AM, schedule, office visit OV02652
+hflovell, 08/25/2016 11:00:24AM, schedule, office visit OV02652
+hflovell, 12/05/2015 07:13:39PM, schedule, office visit OV02652
+akbonilla, 07/22/2016 03:09:56AM, schedule, notification NX0263
+hflovell, 04/17/2015 01:33:16PM, schedule, notification NX0263
+akbonilla, 06/24/2016 07:00:03PM, schedule, notification NX0263
+gphsu, 09/13/2016 04:18:39AM, schedule, notification NX0263
+hqcooney, 09/25/2017 04:45:58AM, schedule, notification NX0263
+gphsu, 04/05/2016 03:08:49PM, schedule, notification NX0263
+pdferrari, 10/16/2017 12:40:04PM, schedule, notification NX0263
+pdferrari, 07/19/2017 12:01:32PM, schedule, notification NX0263
+pdferrari, 03/03/2016 11:42:18AM, schedule, notification NX0263
+pdferrari, 10/01/2016 08:42:21AM, schedule, notification NX0263
+gphsu, 03/09/2017 07:32:03AM, schedule, notification NX0263
+hflovell, 06/20/2015 11:24:31AM, schedule, notification NX0263
+pdferrari, 05/16/2015 05:09:48PM, schedule, notification NX0263
+hqcooney, 08/02/2015 04:58:43PM, schedule, notification NX0263
+hqcooney, 11/02/2017 05:32:43AM, schedule, notification NX0263
+akbonilla, 10/21/2015 05:53:04AM, schedule, notification NX0263
+hqcooney, 08/24/2016 04:59:45PM, schedule, notification NX0263
+akbonilla, 08/15/2017 01:58:43AM, schedule, notification NX0263
+hflovell, 01/06/2015 06:32:36AM, schedule, notification NX0263
+gphsu, 10/23/2017 05:05:30AM, schedule, message M5748
+akbonilla, 04/22/2015 03:12:42AM, schedule, message M5507
+pdferrari, 07/03/2015 09:43:14AM, schedule, message M4052
+pdferrari, 08/03/2015 04:06:00PM, schedule, appointment A000028
+hqcooney, 12/13/2015 12:39:21PM, schedule, ND code 322
+akbonilla, 07/14/2016 02:00:54AM, resolve, system alert CA04384
+hflovell, 08/20/2015 03:58:20AM, resolve, system alert CA04384
+akbonilla, 05/18/2015 11:06:18AM, resolve, system alert CA04384
+hflovell, 12/20/2015 01:26:53PM, resolve, office visit OV05625
+pdferrari, 09/20/2016 04:43:08AM, resolve, office visit OV05625
+pdferrari, 01/08/2017 08:28:43PM, resolve, office visit OV05625
+gphsu, 12/22/2017 02:18:24AM, resolve, office visit OV05625
+gphsu, 03/16/2017 03:51:13PM, resolve, office visit OV05625
+hflovell, 01/08/2017 04:49:41PM, resolve, office visit OV05625
+gphsu, 09/15/2017 08:11:17PM, resolve, office visit OV03592
+pdferrari, 03/10/2017 04:54:57AM, resolve, office visit OV03592
+gphsu, 08/27/2017 06:18:59PM, resolve, office visit OV01504
+hqcooney, 03/05/2017 09:54:16PM, resolve, message M4862
+pdferrari, 02/14/2015 07:01:20PM, resolve, message M4515
+hflovell, 12/12/2015 10:27:40PM, resolve, ICD-9 Code 157
+gphsu, 12/18/2016 04:23:36PM, query, system alert CA01298
+gphsu, 09/10/2017 09:15:14PM, query, system alert CA00711
+hflovell, 09/17/2015 06:15:01AM, query, office visit OV05175
+pdferrari, 04/24/2015 11:39:30PM, query, office visit OV04844
+hflovell, 01/06/2015 10:14:42PM, query, office visit OV04026
+hqcooney, 11/07/2017 03:40:08AM, query, office visit OV04026
+akbonilla, 04/04/2017 07:41:53AM, query, office visit OV04026
+pdferrari, 03/16/2015 06:07:08PM, query, office visit OV04026
+gphsu, 10/27/2016 10:54:25PM, query, office visit OV04026
+pdferrari, 10/13/2016 12:57:56PM, query, office visit OV04026
+hflovell, 06/17/2016 01:57:49AM, query, office visit OV04026
+pdferrari, 02/27/2017 06:32:41AM, query, office visit OV04026
+hflovell, 08/11/2016 12:39:16AM, query, office visit OV04026
+pdferrari, 05/09/2016 05:18:52AM, query, office visit OV04026
+pdferrari, 06/15/2017 08:57:46PM, query, office visit OV04026
+gphsu, 03/12/2015 06:35:02AM, query, office visit OV04026
+hqcooney, 04/01/2016 04:53:56AM, query, office visit OV04026
+gphsu, 12/12/2017 04:57:21AM, query, office visit OV04026
+pdferrari, 10/13/2017 06:28:33PM, query, office visit OV04026
+hqcooney, 07/16/2016 05:58:03AM, query, office visit OV04026
+pdferrari, 04/22/2017 09:55:28PM, query, office visit OV04026
+hflovell, 06/11/2016 02:05:06PM, query, office visit OV04026
+gphsu, 08/23/2017 09:31:44AM, query, office visit OV04026
+akbonilla, 06/09/2015 03:35:34AM, query, office visit OV04026
+hqcooney, 03/23/2017 05:32:51AM, query, office visit OV04026
+hflovell, 04/06/2015 04:47:32AM, query, office visit OV04026
+hqcooney, 11/06/2016 07:22:51PM, query, office visit OV04026
+hflovell, 07/21/2017 11:45:40AM, query, office visit OV04026
+akbonilla, 07/13/2015 04:24:36PM, query, office visit OV04026
+akbonilla, 12/17/2017 01:28:01PM, query, office visit OV04026
+gphsu, 08/26/2016 03:35:05AM, query, office visit OV04026
+gphsu, 07/15/2016 12:21:15PM, query, office visit OV04026
+hqcooney, 02/04/2016 11:35:51PM, query, office visit OV04026
+akbonilla, 03/18/2017 01:45:07PM, query, office visit OV04026
+hqcooney, 05/03/2016 08:36:20PM, query, office visit OV04026
+akbonilla, 01/23/2016 06:09:28AM, query, office visit OV04026
+pdferrari, 10/16/2015 08:02:29AM, query, office visit OV04026
+hqcooney, 07/11/2015 04:21:57PM, query, office visit OV04026
+hqcooney, 11/10/2016 02:59:02PM, query, office visit OV04026
+gphsu, 02/26/2017 07:09:46PM, query, office visit OV04026
+hflovell, 06/05/2015 09:38:54PM, query, office visit OV04026
+akbonilla, 07/04/2016 02:49:08PM, query, office visit OV04026
+gphsu, 07/03/2015 11:40:13AM, query, office visit OV04026
+akbonilla, 01/20/2017 05:30:48PM, query, office visit OV04026
+gphsu, 08/06/2016 07:30:41AM, query, office visit OV04026
+pdferrari, 08/13/2015 02:04:27PM, query, office visit OV04026
+hqcooney, 08/04/2015 04:10:06PM, query, office visit OV04026
+akbonilla, 12/11/2015 09:51:48AM, query, office visit OV02388
+hflovell, 02/27/2016 06:36:22AM, query, notification NX2168
+hflovell, 03/07/2016 11:27:28PM, query, message M4657
+pdferrari, 12/23/2016 12:22:01AM, query, message M4657
+akbonilla, 03/05/2015 12:45:11AM, query, message M4017
+akbonilla, 08/25/2016 09:24:51AM, query, message M1244
+hflovell, 08/20/2016 04:56:43PM, query, message M1244
+hqcooney, 05/14/2016 11:32:44AM, query, appointment A001381
+hqcooney, 08/20/2015 10:29:00AM, query, appointment A001381
+hqcooney, 09/27/2016 05:55:10PM, query, appointment A001006
+hqcooney, 09/08/2016 07:43:21AM, query, appointment A001006
+hflovell, 08/12/2016 03:03:34AM, query, appointment A001006
+akbonilla, 04/02/2015 07:01:54PM, query, appointment A001006
+akbonilla, 06/10/2016 02:51:04AM, query, appointment A001006
+pdferrari, 02/12/2017 07:50:06PM, query, appointment A001006
+hqcooney, 05/10/2016 05:18:03AM, query, appointment A001006
+hflovell, 02/12/2017 04:44:21AM, query, appointment A001006
+hqcooney, 06/12/2015 09:39:15PM, query, appointment A001006
+gphsu, 10/25/2015 07:55:22PM, query, appointment A001006
+pdferrari, 01/21/2015 03:10:17AM, query, appointment A001006
+hflovell, 05/13/2015 07:02:58PM, query, appointment A001006
+hflovell, 03/25/2016 01:14:32PM, query, appointment A001006
+gphsu, 12/09/2015 10:43:21PM, query, appointment A001006
+hqcooney, 04/22/2017 07:42:03PM, query, appointment A001006
+gphsu, 08/26/2017 03:15:48AM, query, appointment A001006
+hflovell, 04/11/2016 08:54:04AM, query, appointment A001006
+pdferrari, 10/01/2017 12:42:34PM, query, appointment A001006
+akbonilla, 01/14/2016 02:49:36AM, query, appointment A001006
+hqcooney, 03/08/2017 10:15:38PM, query, appointment A001006
+hqcooney, 01/26/2015 03:02:59PM, query, appointment A001006
+hqcooney, 03/27/2016 04:03:08PM, query, appointment A001006
+akbonilla, 08/23/2015 11:26:40PM, query, appointment A001006
+hflovell, 08/19/2015 06:47:17PM, query, appointment A001006
+akbonilla, 03/10/2015 01:50:33AM, query, appointment A001006
+hflovell, 06/01/2017 09:51:54AM, query, appointment A001006
+gphsu, 12/08/2017 11:27:47PM, query, appointment A001006
+akbonilla, 08/15/2017 06:39:46AM, print, system alert CA03024
+akbonilla, 10/02/2015 03:17:10PM, print, system alert CA03024
+gphsu, 06/10/2015 04:19:52PM, print, system alert CA03024
+hqcooney, 07/06/2017 01:57:25AM, print, system alert CA03024
+gphsu, 12/16/2017 08:42:18AM, print, system alert CA03024
+akbonilla, 08/12/2017 09:33:24AM, print, system alert CA03024
+pdferrari, 09/06/2015 03:40:36AM, print, system alert CA03024
+akbonilla, 03/14/2016 04:30:20AM, print, system alert CA03024
+hqcooney, 08/03/2016 10:27:34AM, print, system alert CA03024
+gphsu, 06/01/2016 01:26:13AM, print, system alert CA03024
+hqcooney, 09/18/2016 02:55:33PM, print, system alert CA03024
+hflovell, 07/21/2016 09:42:39AM, print, system alert CA03024
+hflovell, 07/06/2016 08:14:56PM, print, system alert CA03024
+hqcooney, 01/08/2015 11:45:31AM, print, system alert CA03024
+pdferrari, 04/12/2017 08:14:25PM, print, system alert CA03024
+akbonilla, 12/21/2016 10:19:18AM, print, system alert CA03024
+pdferrari, 02/16/2017 07:46:04PM, print, system alert CA03024
+akbonilla, 10/12/2016 02:19:07PM, print, system alert CA03024
+pdferrari, 07/05/2016 11:32:53PM, print, system alert CA02638
+pdferrari, 05/16/2015 01:28:28PM, print, system alert CA02638
+hqcooney, 04/16/2017 01:47:04PM, print, system alert CA01216
+akbonilla, 11/11/2015 08:40:23PM, print, patient specific instructions A1345
+akbonilla, 12/10/2015 12:58:47AM, print, patient specific instructions A1345
+hflovell, 04/03/2017 09:55:52AM, print, patient specific instructions A1345
+gphsu, 02/08/2016 05:58:35AM, print, office visit OV05335
+akbonilla, 04/10/2016 02:13:04PM, print, office visit OV05335
+hflovell, 04/20/2016 12:24:36AM, print, office visit OV05335
+akbonilla, 01/25/2015 02:38:42PM, print, office visit OV05335
+pdferrari, 07/15/2017 06:36:04PM, print, office visit OV05335
+pdferrari, 11/21/2015 01:44:03PM, print, office visit OV05335
+hflovell, 07/12/2016 04:13:32PM, print, office visit OV05335
+akbonilla, 02/12/2016 04:44:18PM, print, office visit OV04392
+hflovell, 05/25/2016 02:21:26PM, print, office visit OV04392
+akbonilla, 04/16/2017 11:19:36AM, print, notification NX3202
+hflovell, 06/14/2015 05:05:34AM, print, notification NX3202
+hflovell, 06/08/2017 01:38:22PM, print, notification NX3202
+hqcooney, 08/25/2015 06:34:11AM, print, notification NX3202
+akbonilla, 03/01/2016 02:43:56AM, print, notification NX3202
+hflovell, 03/06/2017 01:50:41PM, print, notification NX3202
+pdferrari, 01/24/2016 11:20:11AM, print, notification NX3202
+pdferrari, 04/23/2017 02:26:44AM, print, notification NX3202
+pdferrari, 08/20/2017 06:40:08PM, print, notification NX3202
+hflovell, 11/06/2015 04:58:49AM, print, notification NX3202
+hflovell, 01/18/2016 07:12:54AM, print, notification NX3202
+gphsu, 12/17/2016 10:31:45PM, print, notification NX3202
+gphsu, 09/02/2017 09:41:03PM, print, notification NX3202
+hqcooney, 05/02/2017 11:32:45AM, print, notification NX3202
+akbonilla, 10/20/2015 10:06:30PM, print, notification NX3202
+gphsu, 03/04/2017 05:28:44AM, print, notification NX3202
+hflovell, 10/12/2015 02:34:51AM, print, notification NX3202
+akbonilla, 05/24/2015 02:46:40AM, print, notification NX3202
+hqcooney, 12/09/2016 05:43:00AM, print, notification NX3202
+gphsu, 06/14/2017 08:07:12PM, print, notification NX3202
+hflovell, 04/07/2016 03:28:30AM, print, notification NX3202
+hqcooney, 09/16/2017 03:18:28AM, print, notification NX3202
+hflovell, 03/04/2017 03:01:01AM, print, notification NX3202
+pdferrari, 01/06/2017 01:55:13PM, print, notification NX3202
+hflovell, 01/04/2017 12:51:22PM, print, notification NX3202
+gphsu, 09/20/2016 09:55:21AM, print, notification NX3202
+hqcooney, 04/19/2015 12:29:03PM, print, notification NX3202
+hflovell, 08/08/2015 08:58:48AM, print, notification NX3202
+pdferrari, 12/08/2015 03:20:33PM, print, notification NX3202
+pdferrari, 11/16/2015 07:40:02AM, print, notification NX3202
+akbonilla, 05/15/2016 04:36:02PM, print, notification NX3202
+akbonilla, 09/18/2016 08:00:24PM, print, notification NX3202
+akbonilla, 11/25/2016 04:07:24PM, print, notification NX3202
+hflovell, 12/04/2016 01:52:56PM, print, notification NX3202
+akbonilla, 03/05/2015 08:46:10AM, print, notification NX3202
+akbonilla, 08/25/2015 02:10:18PM, print, notification NX3202
+hqcooney, 09/23/2015 02:52:02AM, print, notification NX3202
+hqcooney, 09/14/2017 04:23:02PM, print, notification NX3202
+akbonilla, 06/27/2015 06:34:46AM, print, notification NX3202
+akbonilla, 05/01/2015 10:46:49PM, print, notification NX3202
+pdferrari, 07/23/2016 05:11:54AM, print, notification NX2008
+pdferrari, 12/09/2017 03:05:41AM, print, notification NX1504
+pdferrari, 08/07/2017 02:09:43AM, print, message M4012
+akbonilla, 04/15/2017 03:45:40PM, print, message M1214
+akbonilla, 12/19/2017 06:11:43AM, print, message M1214
+akbonilla, 01/14/2017 10:04:52PM, print, appointment A004736
+akbonilla, 01/15/2016 11:24:08PM, print, appointment A004736
+akbonilla, 03/13/2016 05:44:15AM, print, appointment A000540
+akbonilla, 05/17/2015 12:46:44PM, print, appointment A000540
+akbonilla, 12/15/2015 04:15:07PM, print, appointment A000540
+hqcooney, 06/04/2015 09:56:19AM, print, appointment A000540
+akbonilla, 11/14/2017 07:51:35AM, print, LOINC code 197
+hflovell, 09/03/2017 01:38:15AM, print, LOINC code 197
+pdferrari, 01/26/2015 07:02:20AM, order, office visit OV01549
+akbonilla, 09/24/2016 07:42:27AM, order, office visit OV01549
+pdferrari, 06/19/2016 12:56:42AM, order, office visit OV01549
+hqcooney, 07/12/2016 07:09:46AM, order, CPT Code 286
+hqcooney, 09/14/2016 12:15:38AM, modify, system alert CA04710
+hqcooney, 02/15/2017 07:51:29PM, modify, system alert CA01744
+pdferrari, 07/23/2017 10:48:05AM, modify, office visit OV05276
+hflovell, 09/14/2016 06:00:18PM, modify, office visit OV05276
+hflovell, 04/02/2017 02:28:11PM, modify, office visit OV05276
+hflovell, 02/12/2015 10:32:41AM, modify, office visit OV05276
+hflovell, 05/11/2016 12:34:04PM, modify, office visit OV05276
+hqcooney, 04/17/2015 01:00:17PM, modify, office visit OV05276
+pdferrari, 09/04/2015 03:17:30AM, modify, office visit OV05276
+pdferrari, 02/05/2015 02:40:49AM, modify, office visit OV05276
+hflovell, 12/06/2016 02:17:24PM, modify, office visit OV04415
+pdferrari, 01/17/2016 11:18:30PM, modify, office visit OV01855
+hflovell, 05/07/2017 12:40:55PM, modify, office visit OV01855
+gphsu, 09/11/2015 09:04:04AM, modify, office visit OV01855
+gphsu, 06/16/2015 03:19:23AM, modify, notification NX3550
+pdferrari, 12/14/2016 08:34:16PM, modify, message M3062
+gphsu, 02/15/2015 02:03:43AM, modify, appointment A002590
+pdferrari, 05/15/2016 07:35:36PM, modify, appointment A002590
+hflovell, 05/24/2015 10:53:10PM, modify, appointment A002590
+hqcooney, 08/19/2015 02:58:44PM, modify, appointment A002590
+pdferrari, 03/20/2017 02:29:16AM, modify, appointment A000655
+pdferrari, 08/08/2016 09:38:31PM, modify, appointment A000485
+akbonilla, 08/22/2017 08:18:02PM, modify, LOINC code 97
+hflovell, 11/11/2016 03:50:04PM, merge, system alert CA02151
+gphsu, 05/19/2015 12:39:02PM, merge, system alert CA00775
+hflovell, 07/04/2015 04:36:38PM, merge, system alert CA00775
+pdferrari, 07/21/2015 04:35:51AM, merge, system alert CA00563
+gphsu, 07/10/2017 07:22:08AM, merge, office visit OV04481
+hflovell, 08/22/2017 04:16:32PM, merge, office visit OV04226
+hflovell, 04/13/2016 12:20:49AM, merge, office visit OV01590
+pdferrari, 03/13/2017 09:42:19AM, merge, office visit OV01590
+pdferrari, 11/08/2016 12:43:56PM, merge, office visit OV01590
+hqcooney, 11/26/2015 12:45:15AM, merge, office visit OV01590
+akbonilla, 09/19/2015 07:05:47PM, merge, office visit OV01590
+hqcooney, 09/26/2015 01:29:07PM, merge, office visit OV01590
+hqcooney, 07/18/2017 06:43:39AM, merge, office visit OV01590
+hflovell, 07/10/2015 03:07:04PM, merge, notification NX4981
+hflovell, 12/27/2016 02:45:27AM, merge, notification NX4981
+akbonilla, 11/14/2015 07:47:18AM, merge, notification NX1751
+gphsu, 10/10/2017 08:25:43AM, merge, notification NX0426
+hqcooney, 12/09/2015 10:38:48PM, merge, notification NX0426
+pdferrari, 05/26/2016 07:06:53AM, merge, ICD-9 Code 923
+hqcooney, 07/17/2017 09:29:16PM, merge, ICD-9 Code 923
+hflovell, 06/27/2016 06:11:34PM, merge, ICD-9 Code 923
+gphsu, 11/21/2016 03:31:42PM, merge, ICD-9 Code 923
+hflovell, 03/15/2017 12:10:27PM, merge, ICD-9 Code 923
+akbonilla, 09/16/2017 05:08:36PM, merge, ICD-9 Code 923
+hqcooney, 11/12/2017 12:58:15PM, merge, ICD-9 Code 923
+gphsu, 02/03/2017 03:35:12AM, merge, ICD-10 Code 340
+akbonilla, 07/17/2017 06:15:56AM, merge, ICD-10 Code 340
+akbonilla, 04/10/2016 08:11:44PM, merge, ICD-10 Code 233
+akbonilla, 06/12/2015 02:13:32PM, merge, ICD Code 315
+gphsu, 02/01/2017 12:35:11AM, merge, CPT Code 175
+hqcooney, 07/05/2015 08:10:51AM, merge, CPT Code 175
+hflovell, 04/12/2015 01:27:07AM, import, system alert CA01130
+akbonilla, 07/19/2015 12:44:47PM, import, system alert CA01130
+hflovell, 05/18/2017 03:43:44AM, import, system alert CA01130
+gphsu, 11/12/2016 04:46:26AM, import, system alert CA01130
+akbonilla, 10/20/2015 04:26:36PM, import, system alert CA01130
+hqcooney, 08/14/2017 04:40:16PM, import, system alert CA01130
+akbonilla, 12/27/2015 07:46:54AM, import, system alert CA01130
+hflovell, 11/06/2016 12:07:11PM, import, system alert CA01130
+akbonilla, 01/22/2016 06:09:24AM, import, system alert CA01130
+akbonilla, 05/17/2015 11:47:42AM, import, system alert CA01130
+akbonilla, 07/15/2015 12:17:30PM, import, system alert CA01130
+gphsu, 05/07/2016 04:54:55AM, import, system alert CA01130
+hqcooney, 05/24/2015 11:50:12PM, import, system alert CA01130
+akbonilla, 07/27/2017 04:23:14AM, import, system alert CA01130
+akbonilla, 09/14/2017 05:38:11AM, import, system alert CA01130
+hqcooney, 02/24/2015 09:07:54AM, import, system alert CA01130
+gphsu, 08/04/2016 04:33:02PM, import, system alert CA01130
+akbonilla, 07/08/2016 06:34:21PM, import, system alert CA01130
+hqcooney, 02/22/2017 10:33:20PM, import, system alert CA01130
+gphsu, 02/25/2016 06:43:01PM, import, system alert CA01130
+hflovell, 04/09/2017 12:58:54PM, import, system alert CA01130
+gphsu, 11/09/2017 12:58:46AM, import, system alert CA01130
+hqcooney, 07/16/2015 11:19:07AM, import, system alert CA01130
+pdferrari, 07/23/2016 10:02:52PM, import, system alert CA01130
+hflovell, 09/07/2017 10:16:44PM, import, system alert CA01130
+hflovell, 02/11/2017 02:36:30PM, import, system alert CA01130
+gphsu, 04/03/2015 05:14:54PM, import, system alert CA01130
+pdferrari, 01/07/2015 10:14:00AM, import, system alert CA01130
+gphsu, 01/15/2015 02:48:09PM, import, system alert CA01130
+hflovell, 01/03/2016 01:36:28AM, import, system alert CA01130
+gphsu, 02/21/2016 09:35:42AM, import, office visit OV05515
+pdferrari, 08/19/2016 09:30:56PM, import, message M3450
+hqcooney, 11/03/2015 09:51:59PM, import, message M3099
+gphsu, 09/13/2015 12:03:06AM, import, message M1396
+hflovell, 11/22/2015 10:44:15PM, import, appointment A000025
+gphsu, 08/21/2017 07:48:12AM, import, appointment A000025
+akbonilla, 01/15/2017 02:00:59PM, import, appointment A000025
+gphsu, 07/24/2017 04:50:06AM, import, ICD Code 449
+akbonilla, 09/03/2016 04:49:36PM, import, ICD Code 449
+hflovell, 12/10/2016 03:42:17AM, import, ICD Code 449
+hflovell, 04/08/2017 02:06:35AM, import, ICD Code 449
+hflovell, 06/05/2016 09:28:18AM, import, ICD Code 449
+pdferrari, 03/27/2017 04:51:45PM, import, ICD Code 449
+gphsu, 09/21/2017 02:26:44PM, import, ICD Code 449
+hqcooney, 04/21/2015 12:45:30PM, import, ICD Code 449
+gphsu, 03/16/2016 08:54:49PM, import, ICD Code 449
+hflovell, 10/20/2016 10:06:47PM, import, ICD Code 449
+akbonilla, 07/23/2015 10:37:32AM, import, ICD Code 449
+hqcooney, 12/24/2017 05:47:41PM, import, ICD Code 449
+gphsu, 01/14/2017 03:18:44AM, import, ICD Code 449
+pdferrari, 06/06/2015 01:53:43PM, import, ICD Code 449
+hflovell, 08/02/2015 09:13:58PM, import, ICD Code 449
+pdferrari, 10/26/2016 04:56:02AM, import, ICD Code 449
+pdferrari, 04/02/2016 03:15:29AM, import, ICD Code 449
+hqcooney, 11/27/2017 07:02:34AM, import, ICD Code 449
+pdferrari, 07/05/2017 04:47:27PM, import, ICD Code 449
+hqcooney, 07/27/2016 07:04:41PM, import, ICD Code 449
+pdferrari, 03/25/2017 12:31:48AM, import, ICD Code 449
+gphsu, 07/24/2015 05:25:07PM, import, ICD Code 449
+pdferrari, 07/10/2017 05:27:29AM, import, ICD Code 449
+gphsu, 11/20/2016 05:47:48AM, import, ICD Code 449
+hflovell, 10/12/2017 05:20:57AM, export, user account
+akbonilla, 05/09/2015 12:56:20PM, export, user account
+gphsu, 02/16/2015 06:21:56AM, export, user account
+akbonilla, 10/07/2017 03:11:11PM, export, user account
+hflovell, 06/27/2016 02:21:39PM, export, user account
+pdferrari, 05/02/2016 09:05:43PM, export, user account
+pdferrari, 05/21/2016 07:28:26AM, export, user account
+hflovell, 05/24/2017 04:14:16PM, export, user account
+hqcooney, 08/19/2017 06:49:10AM, export, user account
+hqcooney, 07/22/2016 02:45:37AM, export, user account
+akbonilla, 06/19/2015 12:08:08PM, export, user account
+hflovell, 06/01/2016 05:18:44AM, export, user account
+pdferrari, 09/25/2017 06:21:25PM, export, user account
+pdferrari, 04/03/2016 06:34:01PM, export, user account
+gphsu, 03/24/2016 10:45:48AM, export, user account
+hqcooney, 09/26/2015 01:20:06PM, export, user account
+hqcooney, 11/17/2017 04:52:22PM, export, user account
+akbonilla, 04/14/2017 07:45:53PM, export, user account
+gphsu, 05/09/2015 07:43:47AM, export, user account
+hqcooney, 09/21/2016 10:26:15PM, export, user account
+gphsu, 11/01/2015 12:05:11AM, export, user account
+hqcooney, 06/26/2017 12:12:51PM, export, user account
+gphsu, 02/14/2017 10:50:02AM, export, user account
+pdferrari, 05/07/2017 07:44:45PM, export, user account
+gphsu, 05/09/2015 03:28:44AM, export, user account
+gphsu, 06/25/2015 01:52:28AM, export, user account
+hflovell, 10/25/2015 02:00:01PM, export, user account
+pdferrari, 08/14/2017 09:11:53PM, export, user account
+gphsu, 03/20/2017 06:00:31AM, export, user account
+hqcooney, 08/08/2016 07:27:59PM, export, user account
+pdferrari, 01/05/2016 03:29:51AM, export, user account
+akbonilla, 07/23/2016 07:31:15AM, export, user account
+gphsu, 01/16/2015 01:08:36AM, export, user account
+pdferrari, 07/16/2016 11:13:15PM, export, user account
+akbonilla, 01/23/2017 03:15:11AM, export, user account
+hqcooney, 04/20/2017 12:38:16PM, export, user account
+gphsu, 03/22/2016 05:32:57PM, export, user account
+hqcooney, 08/19/2016 04:59:26PM, export, user account
+gphsu, 04/03/2017 08:29:28PM, export, user account
+hqcooney, 05/26/2016 08:02:27PM, export, system alert CA03832
+hqcooney, 04/24/2015 02:54:51AM, export, system alert CA02209
+hqcooney, 07/25/2016 01:18:59PM, export, patient specific instructions A978
+gphsu, 04/02/2016 09:39:32PM, export, patient specific instructions A978
+pdferrari, 02/15/2015 12:57:52PM, export, patient specific instructions A978
+pdferrari, 07/01/2016 08:17:16PM, export, patient specific instructions A978
+akbonilla, 02/15/2015 09:26:32AM, export, patient specific instructions A978
+pdferrari, 12/04/2016 11:21:31PM, export, patient specific instructions A978
+hqcooney, 02/09/2015 01:56:56PM, export, patient specific instructions A978
+gphsu, 06/16/2017 01:43:29AM, export, patient specific instructions A978
+hqcooney, 10/04/2015 03:42:28AM, export, patient specific instructions A978
+gphsu, 11/03/2017 04:22:06PM, export, patient specific instructions A978
+hflovell, 10/19/2015 05:46:38AM, export, patient specific instructions A978
+akbonilla, 10/01/2015 01:50:50PM, export, patient specific instructions A978
+hqcooney, 12/05/2015 09:30:58PM, export, patient specific instructions A978
+hflovell, 10/01/2015 04:40:56AM, export, patient specific instructions A978
+hqcooney, 05/14/2017 10:59:30AM, export, patient specific instructions A978
+pdferrari, 02/09/2017 08:52:05AM, export, patient specific instructions A978
+hflovell, 06/11/2016 07:37:08PM, export, patient specific instructions A978
+akbonilla, 07/25/2015 06:53:40AM, export, patient specific instructions A978
+hqcooney, 03/01/2017 11:36:35PM, export, patient specific instructions A978
+gphsu, 02/09/2017 10:14:30PM, export, patient specific instructions A978
+akbonilla, 07/07/2015 05:39:43AM, export, patient specific instructions A978
+gphsu, 07/26/2017 03:27:52AM, export, patient specific instructions A978
+pdferrari, 10/05/2016 11:31:07AM, export, patient specific instructions A978
+gphsu, 07/03/2016 08:14:59PM, export, patient specific instructions A978
+gphsu, 09/15/2016 10:39:40AM, export, office visit OV02421
+pdferrari, 04/23/2015 09:48:39PM, export, office visit OV02421
+pdferrari, 04/18/2017 03:53:34PM, export, office visit OV02421
+pdferrari, 02/14/2016 02:25:57PM, export, office visit OV02421
+akbonilla, 01/19/2015 10:37:02PM, export, office visit OV02421
+akbonilla, 02/06/2017 05:27:54PM, export, office visit OV02421
+hqcooney, 04/01/2015 12:03:12PM, export, office visit OV02421
+pdferrari, 03/09/2016 04:26:41AM, export, office visit OV02421
+gphsu, 10/26/2016 09:00:30AM, export, office visit OV02421
+akbonilla, 04/17/2015 10:37:34AM, export, office visit OV02421
+pdferrari, 11/13/2015 02:34:35AM, export, office visit OV02421
+hflovell, 03/12/2016 09:12:25AM, export, office visit OV02421
+akbonilla, 09/07/2016 07:43:00AM, export, office visit OV02421
+pdferrari, 02/09/2017 07:48:13AM, export, office visit OV02421
+akbonilla, 04/24/2015 02:57:03AM, export, office visit OV02421
+gphsu, 10/26/2015 04:13:07AM, export, office visit OV02421
+akbonilla, 02/27/2016 01:59:06AM, export, notification NX3922
+gphsu, 02/15/2016 01:05:33AM, export, notification NX3922
+pdferrari, 08/10/2016 05:28:55AM, export, notification NX3922
+hflovell, 12/10/2017 12:51:24AM, export, notification NX3922
+hflovell, 06/08/2015 02:55:42AM, export, notification NX3922
+gphsu, 09/09/2015 10:03:08AM, export, notification NX3922
+hflovell, 03/23/2015 09:59:06AM, export, notification NX3922
+akbonilla, 04/27/2016 03:47:01AM, export, notification NX3922
+hqcooney, 10/01/2017 03:06:51PM, export, notification NX3922
+akbonilla, 04/06/2015 09:09:47PM, export, notification NX3922
+gphsu, 08/08/2015 10:33:51AM, export, notification NX3922
+hqcooney, 01/27/2015 02:27:31AM, export, notification NX3922
+akbonilla, 09/18/2017 11:20:10AM, export, notification NX3922
+hqcooney, 02/12/2017 09:57:23AM, export, notification NX3922
+pdferrari, 10/16/2016 04:41:23AM, export, notification NX3922
+akbonilla, 03/02/2015 08:23:09AM, export, notification NX3922
+hflovell, 01/02/2016 07:19:23PM, export, notification NX3922
+gphsu, 05/01/2016 01:53:11AM, export, notification NX3922
+gphsu, 06/18/2015 04:24:24PM, export, notification NX3922
+pdferrari, 11/11/2017 06:10:18PM, export, notification NX3922
+hqcooney, 04/04/2016 06:20:45PM, export, notification NX3922
+gphsu, 01/17/2016 07:18:50AM, export, notification NX3922
+pdferrari, 04/19/2015 07:01:00PM, export, notification NX3922
+akbonilla, 08/13/2015 10:46:30PM, export, notification NX3922
+gphsu, 09/22/2016 05:59:07PM, export, notification NX3922
+akbonilla, 01/12/2017 08:28:48PM, export, notification NX3922
+gphsu, 10/23/2016 03:38:09AM, export, notification NX3922
+hflovell, 10/10/2015 06:51:35AM, export, notification NX3922
+gphsu, 08/05/2016 08:02:07PM, export, notification NX3922
+hflovell, 06/01/2015 09:05:58PM, export, notification NX3922
+gphsu, 06/05/2017 03:22:54PM, export, notification NX3922
+gphsu, 01/21/2017 10:06:23AM, export, notification NX3922
+hflovell, 02/15/2015 09:45:24AM, export, notification NX0086
+gphsu, 07/05/2016 02:33:10AM, export, message M1309
+pdferrari, 03/03/2016 05:52:50AM, export, appointment A004807
+pdferrari, 01/06/2016 08:32:57PM, export, appointment A002429
+gphsu, 04/07/2016 10:48:08PM, export, appointment A002429
+gphsu, 06/25/2015 05:58:41PM, export, appointment A002429
+gphsu, 04/14/2016 08:11:30AM, export, appointment A002429
+gphsu, 02/03/2017 06:15:19PM, export, appointment A002429
+akbonilla, 12/22/2016 05:41:43PM, export, appointment A002429
+pdferrari, 04/11/2015 05:53:41PM, export, appointment A002429
+pdferrari, 06/07/2015 06:42:31AM, export, appointment A002429
+hflovell, 05/08/2017 04:09:49AM, export, appointment A002429
+gphsu, 07/26/2016 10:55:42PM, export, appointment A002429
+hflovell, 03/05/2015 06:55:48PM, export, appointment A002429
+hflovell, 09/08/2017 09:59:54AM, export, appointment A002429
+hflovell, 08/01/2016 07:48:02AM, export, appointment A002429
+akbonilla, 11/19/2017 11:34:37PM, export, appointment A002429
+gphsu, 02/24/2016 04:29:30AM, export, appointment A002429
+akbonilla, 07/23/2017 11:22:31PM, export, appointment A002256
+pdferrari, 07/13/2017 11:28:29PM, export, appointment A000447
+gphsu, 07/08/2016 03:23:50AM, export, ICD-10 Code 883
+gphsu, 06/10/2017 02:02:09AM, export, ICD-10 Code 883
+pdferrari, 12/10/2016 04:07:30AM, enable, office visit OV00670
+hflovell, 12/23/2017 11:45:09PM, enable, office visit OV00670
+hflovell, 01/25/2015 11:49:26AM, enable, office visit OV00670
+akbonilla, 03/03/2017 02:43:39PM, enable, office visit OV00670
+hflovell, 05/01/2016 04:32:05AM, enable, office visit OV00670
+pdferrari, 01/12/2016 07:36:53PM, enable, message M4550
+gphsu, 03/15/2015 04:59:01PM, enable, message M4550
+pdferrari, 11/07/2016 06:14:01AM, enable, message M4550
+hqcooney, 12/05/2016 06:55:24AM, enable, message M4550
+akbonilla, 11/27/2015 10:15:38AM, enable, message M1942
+pdferrari, 12/19/2016 08:59:18PM, enable, appointment A004516
+pdferrari, 07/06/2016 12:02:03AM, enable, appointment A004516
+pdferrari, 11/21/2016 08:48:52AM, enable, appointment A004516
+gphsu, 02/13/2017 09:06:51AM, enable, appointment A004251
+pdferrari, 08/04/2015 03:32:09PM, enable, ICD-10 Code 458
+hqcooney, 05/13/2015 11:53:46PM, disable, system alert CA03288
+pdferrari, 02/24/2015 10:39:27PM, disable, system alert CA02735
+gphsu, 02/04/2015 05:45:53PM, disable, system alert CA02735
+hflovell, 03/01/2015 07:39:12AM, disable, system alert CA02735
+pdferrari, 09/15/2016 09:09:43PM, disable, system alert CA02735
+hflovell, 03/14/2015 08:53:52PM, disable, system alert CA02735
+akbonilla, 12/19/2016 10:58:35PM, disable, system alert CA02735
+pdferrari, 10/15/2015 07:44:23PM, disable, system alert CA02735
+akbonilla, 02/24/2017 11:12:46PM, disable, system alert CA02735
+hqcooney, 06/04/2016 01:58:18PM, disable, system alert CA02735
+akbonilla, 09/05/2016 06:52:28AM, disable, system alert CA02735
+hflovell, 04/10/2015 02:11:25PM, disable, system alert CA02735
+hflovell, 12/06/2017 11:46:09PM, disable, system alert CA02735
+hflovell, 05/20/2016 08:32:03PM, disable, system alert CA02735
+pdferrari, 10/17/2017 10:43:11AM, disable, system alert CA02735
+akbonilla, 09/06/2016 05:57:38AM, disable, system alert CA02735
+hflovell, 02/16/2015 04:17:30PM, disable, system alert CA02735
+akbonilla, 09/21/2017 01:28:42AM, disable, system alert CA02735
+gphsu, 08/14/2016 12:41:21AM, disable, system alert CA02735
+pdferrari, 12/08/2015 10:01:00PM, disable, notification NX0970
+hqcooney, 09/06/2016 10:29:53AM, disable, notification NX0970
+pdferrari, 08/20/2016 03:20:31PM, disable, notification NX0970
+gphsu, 03/19/2016 01:45:30PM, disable, notification NX0970
+hflovell, 12/14/2015 11:47:41AM, disable, notification NX0970
+pdferrari, 09/06/2016 01:38:56PM, disable, notification NX0970
+hflovell, 12/24/2017 01:40:29PM, disable, notification NX0970
+gphsu, 12/09/2017 07:40:40AM, disable, notification NX0970
+akbonilla, 10/12/2017 05:07:02AM, disable, notification NX0970
+gphsu, 12/07/2017 04:55:02PM, disable, notification NX0970
+akbonilla, 01/03/2016 08:58:20PM, disable, notification NX0970
+pdferrari, 07/20/2017 10:48:10AM, disable, notification NX0970
+hqcooney, 08/14/2016 03:26:43PM, disable, notification NX0970
+gphsu, 09/15/2016 03:46:45PM, disable, notification NX0970
+pdferrari, 03/15/2015 08:04:23PM, disable, notification NX0970
+pdferrari, 03/21/2016 09:16:43AM, disable, notification NX0970
+hflovell, 11/14/2015 11:50:10AM, disable, notification NX0970
+gphsu, 07/22/2015 10:18:17AM, disable, notification NX0970
+pdferrari, 02/03/2016 02:59:52AM, disable, notification NX0970
+pdferrari, 12/21/2015 01:47:27PM, disable, notification NX0970
+hqcooney, 04/21/2015 12:53:55PM, disable, notification NX0970
+gphsu, 03/16/2016 01:30:34AM, disable, notification NX0970
+hflovell, 03/02/2017 02:21:00AM, disable, notification NX0970
+akbonilla, 06/04/2017 02:01:20AM, disable, notification NX0970
+pdferrari, 08/09/2017 03:46:29AM, disable, notification NX0970
+pdferrari, 10/14/2017 02:15:34AM, disable, notification NX0970
+hqcooney, 07/17/2017 09:23:40PM, disable, notification NX0970
+gphsu, 08/16/2016 07:10:32PM, disable, notification NX0970
+akbonilla, 01/26/2015 02:42:39PM, disable, notification NX0970
+akbonilla, 12/27/2016 11:23:17PM, disable, message M5342
+gphsu, 11/24/2015 10:19:24AM, disable, message M5342
+hqcooney, 02/11/2016 06:39:06PM, disable, message M5342
+hflovell, 01/21/2016 08:21:47PM, disable, message M5342
+hflovell, 06/10/2015 01:00:03PM, disable, message M5342
+hqcooney, 06/26/2016 10:11:36AM, disable, message M5342
+gphsu, 10/06/2017 03:27:21AM, disable, message M5342
+akbonilla, 01/26/2015 12:44:42PM, disable, message M5342
+hqcooney, 01/06/2017 01:47:11PM, disable, message M5342
+pdferrari, 05/18/2017 06:34:36AM, disable, message M5342
+hqcooney, 02/06/2016 07:07:49AM, disable, message M5342
+pdferrari, 04/06/2015 10:40:06PM, disable, message M5342
+hflovell, 12/05/2015 07:19:32PM, disable, message M5342
+gphsu, 02/06/2017 03:35:54AM, disable, message M5342
+akbonilla, 06/27/2015 01:32:42PM, disable, message M5342
+hflovell, 06/08/2015 01:17:35AM, disable, message M5342
+akbonilla, 08/21/2015 11:26:14AM, disable, message M5342
+hflovell, 06/01/2016 05:21:56AM, disable, message M5342
+pdferrari, 11/15/2016 11:47:48AM, disable, message M5342
+akbonilla, 05/23/2016 06:47:18AM, disable, message M5342
+gphsu, 11/05/2017 06:16:45PM, disable, message M5342
+akbonilla, 12/05/2016 09:58:10PM, disable, message M5342
+gphsu, 04/08/2017 08:44:13PM, disable, message M5342
+gphsu, 03/03/2017 08:09:59PM, disable, message M5342
+hqcooney, 08/06/2016 12:42:56AM, disable, message M5342
+gphsu, 07/23/2016 07:03:13PM, disable, message M5342
+hflovell, 08/20/2015 12:25:44PM, disable, message M5342
+gphsu, 12/09/2016 04:25:28AM, disable, message M5342
+hqcooney, 08/08/2017 12:19:44AM, disable, message M5342
+gphsu, 10/17/2015 02:48:40PM, disable, message M5342
+akbonilla, 07/21/2016 02:02:01AM, disable, message M5342
+hflovell, 04/11/2015 12:17:18AM, disable, message M5342
+akbonilla, 10/05/2015 12:40:35AM, disable, message M5342
+hflovell, 09/24/2016 03:42:48AM, disable, message M5342
+akbonilla, 05/24/2015 08:26:45PM, disable, message M5342
+gphsu, 06/09/2015 05:02:21PM, disable, message M5342
+hflovell, 09/18/2015 06:51:22AM, disable, message M5342
+hflovell, 09/09/2015 08:32:07AM, disable, message M5342
+akbonilla, 09/10/2017 08:35:39PM, disable, message M5342
+gphsu, 08/08/2017 12:41:11AM, disable, message M5342
+gphsu, 05/09/2015 09:00:12AM, disable, message M5342
+hqcooney, 08/07/2016 12:39:59PM, disable, message M5342
+gphsu, 02/11/2017 08:36:23PM, disable, message M5342
+hflovell, 11/05/2017 09:23:32PM, disable, message M5342
+pdferrari, 05/03/2016 08:08:14PM, disable, message M5342
+hqcooney, 09/13/2015 09:42:55PM, disable, message M5342
+hflovell, 12/03/2016 09:47:45AM, disable, message M5342
+pdferrari, 01/10/2017 09:47:04AM, disable, ICD-10 Code 81
+akbonilla, 10/24/2017 10:14:01PM, disable, ICD-10 Code 456
+pdferrari, 06/13/2015 03:32:00PM, disable, ICD-10 Code 456
+hqcooney, 11/02/2016 06:36:16PM, delete, system alert CA01322
+gphsu, 12/09/2017 02:03:24PM, delete, system alert CA01322
+akbonilla, 10/22/2016 02:55:28PM, delete, system alert CA01322
+hflovell, 06/26/2016 07:33:09PM, delete, office visit OV04243
+gphsu, 01/01/2015 07:41:05AM, delete, office visit OV04243
+pdferrari, 01/07/2016 08:31:59PM, delete, office visit OV04243
+pdferrari, 05/11/2016 10:18:10AM, delete, office visit OV04243
+akbonilla, 02/22/2016 05:44:22AM, delete, office visit OV04243
+hflovell, 09/21/2015 02:51:53AM, delete, office visit OV04243
+gphsu, 03/21/2017 05:19:02PM, delete, office visit OV04243
+akbonilla, 05/16/2016 05:00:16AM, delete, office visit OV04243
+pdferrari, 12/18/2017 11:56:36PM, delete, office visit OV04243
+hflovell, 06/21/2017 01:44:52PM, delete, office visit OV04243
+gphsu, 10/02/2016 12:11:44AM, delete, office visit OV04243
+hqcooney, 03/26/2017 04:22:10AM, delete, office visit OV04243
+akbonilla, 12/18/2015 05:40:37PM, delete, office visit OV04243
+hqcooney, 08/05/2017 11:37:30AM, delete, office visit OV04243
+gphsu, 10/07/2017 02:31:10AM, delete, office visit OV04243
+gphsu, 08/22/2015 02:05:09PM, delete, office visit OV04243
+hflovell, 02/04/2015 07:12:42AM, delete, office visit OV04243
+gphsu, 09/19/2015 01:27:33AM, delete, office visit OV04243
+hflovell, 09/03/2016 09:40:08AM, delete, office visit OV04243
+akbonilla, 04/15/2017 12:43:37PM, delete, office visit OV04243
+hqcooney, 04/26/2016 07:47:49PM, delete, office visit OV04243
+gphsu, 06/22/2016 02:44:02AM, delete, office visit OV04243
+hflovell, 03/15/2017 01:59:26PM, delete, office visit OV04243
+gphsu, 12/27/2015 09:20:04PM, delete, office visit OV04243
+akbonilla, 10/08/2017 08:00:49AM, delete, office visit OV04243
+pdferrari, 06/27/2015 12:37:53PM, delete, office visit OV04243
+gphsu, 05/01/2017 11:28:00PM, delete, office visit OV04243
+gphsu, 03/19/2015 02:08:32AM, delete, office visit OV04243
+hflovell, 03/08/2016 10:41:10PM, delete, office visit OV04243
+hflovell, 12/22/2015 05:17:45PM, delete, office visit OV04243
+akbonilla, 06/23/2016 04:23:28AM, delete, office visit OV04243
+hflovell, 02/19/2017 08:06:32PM, delete, office visit OV04243
+akbonilla, 11/22/2017 01:27:05PM, delete, office visit OV04243
+gphsu, 06/05/2017 03:04:05AM, delete, office visit OV04243
+hqcooney, 09/08/2015 02:27:25PM, delete, office visit OV04243
+gphsu, 06/19/2016 09:19:04PM, delete, office visit OV04243
+akbonilla, 04/05/2015 04:14:24PM, delete, office visit OV04243
+hflovell, 01/03/2016 10:31:42AM, delete, office visit OV04243
+akbonilla, 03/17/2016 08:15:47AM, delete, office visit OV04243
+gphsu, 07/09/2017 05:26:13AM, delete, office visit OV04243
+akbonilla, 03/02/2015 04:10:31AM, delete, message M3209
+hflovell, 04/12/2015 02:40:55AM, delete, message M2344
+hqcooney, 06/06/2017 06:20:03PM, delete, message M2344
+gphsu, 04/15/2017 10:13:49AM, delete, message M2344
+gphsu, 06/27/2016 05:48:15PM, delete, message M2344
+gphsu, 04/12/2017 06:12:03AM, delete, message M2344
+hflovell, 12/05/2015 05:53:01AM, delete, message M2344
+akbonilla, 03/22/2015 06:37:21AM, delete, message M2344
+hflovell, 12/12/2017 03:04:44PM, delete, message M2344
+akbonilla, 11/20/2015 10:57:28AM, delete, message M2344
+hflovell, 10/18/2016 08:26:33PM, delete, message M2344
+akbonilla, 02/11/2015 05:17:04PM, delete, message M2344
+gphsu, 11/03/2015 11:19:00PM, delete, message M2344
+akbonilla, 05/08/2017 10:47:15PM, delete, message M2344
+akbonilla, 03/25/2015 02:09:59AM, delete, message M2344
+akbonilla, 01/13/2015 03:33:52PM, delete, message M2344
+hflovell, 07/05/2017 08:00:50AM, delete, message M2344
+hflovell, 05/27/2016 10:32:27PM, delete, message M2344
+gphsu, 08/23/2015 01:08:59AM, delete, message M2344
+akbonilla, 07/11/2017 01:44:03AM, delete, message M2344
+akbonilla, 08/17/2015 01:33:45PM, delete, message M2344
+akbonilla, 03/25/2015 10:09:56AM, delete, message M2344
+hqcooney, 12/20/2016 08:01:31AM, delete, message M2344
+gphsu, 12/03/2015 06:38:50AM, delete, message M2344
+gphsu, 09/23/2017 02:04:12PM, delete, message M2344
+pdferrari, 03/06/2017 07:02:11AM, delete, message M2344
+gphsu, 12/24/2016 10:32:04AM, delete, message M2344
+hqcooney, 06/03/2017 05:28:03PM, delete, message M2344
+hflovell, 01/14/2015 12:39:07PM, delete, message M2344
+gphsu, 02/02/2016 07:58:00PM, delete, message M2344
+akbonilla, 10/18/2016 11:13:22PM, delete, message M2344
+hflovell, 01/02/2017 07:18:06PM, delete, message M2344
+hflovell, 04/24/2017 01:23:04AM, delete, appointment A005054
+hflovell, 02/10/2015 09:13:29PM, delete, appointment A005054
+hqcooney, 11/21/2016 12:03:54PM, delete, appointment A005054
+pdferrari, 12/08/2017 07:14:06AM, delete, appointment A005054
+hqcooney, 05/01/2015 04:06:02PM, delete, appointment A005054
+hqcooney, 09/16/2015 07:11:02PM, delete, appointment A005054
+pdferrari, 02/14/2016 03:15:02AM, delete, appointment A005054
+hflovell, 05/07/2017 10:46:20PM, delete, appointment A005054
+pdferrari, 02/21/2016 06:39:09AM, delete, appointment A005054
+pdferrari, 12/17/2017 11:40:47AM, delete, appointment A005054
+gphsu, 08/26/2016 03:43:43AM, delete, appointment A005054
+gphsu, 03/02/2017 01:26:02PM, delete, appointment A005054
+gphsu, 08/21/2017 01:57:43PM, delete, appointment A005054
+hflovell, 12/10/2016 07:20:30AM, delete, appointment A005054
+akbonilla, 07/13/2017 07:19:40PM, delete, appointment A005054
+gphsu, 02/24/2016 04:28:35PM, delete, appointment A005054
+pdferrari, 09/24/2017 07:24:35AM, delete, appointment A005054
+hflovell, 02/10/2017 11:43:25PM, delete, appointment A005054
+akbonilla, 08/10/2017 11:25:47AM, delete, appointment A005054
+akbonilla, 06/25/2015 07:33:37PM, delete, appointment A005054
+hflovell, 06/08/2017 06:18:31PM, delete, appointment A005054
+hqcooney, 02/21/2016 07:18:25PM, delete, appointment A005054
+pdferrari, 02/09/2017 02:11:44PM, delete, appointment A005054
+akbonilla, 11/19/2017 07:37:46AM, delete, appointment A005054
+hflovell, 09/21/2016 09:43:29AM, delete, appointment A005054
+pdferrari, 04/19/2016 11:31:09AM, delete, appointment A005054
+hqcooney, 12/09/2017 03:34:39PM, delete, appointment A005054
+gphsu, 04/02/2017 02:15:36AM, delete, appointment A002050
+hqcooney, 06/14/2017 12:27:14AM, delete, appointment A001931
+hqcooney, 02/17/2017 04:01:49PM, delete, appointment A000385
+gphsu, 04/08/2016 09:22:57PM, create, patient specific instructions A930
+akbonilla, 07/18/2017 12:25:36AM, create, office visit OV04838
+akbonilla, 08/25/2016 11:08:33AM, create, notification NX1580
+pdferrari, 04/15/2015 11:20:36AM, create, notification NX1580
+hqcooney, 06/09/2017 11:08:54AM, complete, office visit OV03182
+hqcooney, 10/16/2017 05:23:00PM, complete, office visit OV03182
+pdferrari, 10/23/2016 04:43:16AM, complete, office visit OV03182
+hqcooney, 01/13/2016 01:19:45AM, complete, notification NX4753
+gphsu, 05/06/2015 02:14:23AM, complete, notification NX3536
+hflovell, 05/21/2015 02:38:09PM, complete, notification NX3419
+akbonilla, 09/04/2016 07:03:35AM, complete, notification NX3419
+akbonilla, 10/27/2016 12:59:52AM, complete, notification NX3419
+gphsu, 11/19/2015 03:19:42PM, complete, notification NX3419
+gphsu, 04/08/2017 02:54:36AM, complete, notification NX3419
+pdferrari, 01/06/2017 01:04:33PM, complete, notification NX3419
+hqcooney, 08/19/2015 06:08:43AM, complete, notification NX3419
+pdferrari, 09/13/2017 02:05:12AM, complete, notification NX3419
+pdferrari, 05/19/2015 06:33:52AM, complete, notification NX3419
+hqcooney, 06/17/2015 09:25:55PM, complete, notification NX3419
+akbonilla, 09/08/2017 10:51:15AM, complete, notification NX3419
+hqcooney, 02/01/2017 12:34:52PM, complete, notification NX3419
+akbonilla, 09/05/2016 08:13:20AM, complete, notification NX3419
+akbonilla, 11/01/2016 02:25:18PM, complete, notification NX3419
+hflovell, 05/06/2015 03:23:45PM, complete, notification NX3419
+pdferrari, 08/15/2015 05:55:49AM, complete, notification NX3419
+gphsu, 05/23/2015 01:19:17AM, complete, notification NX3419
+akbonilla, 10/22/2016 09:47:02AM, complete, notification NX3419
+akbonilla, 02/09/2015 11:15:56PM, complete, notification NX3419
+hqcooney, 03/14/2017 11:09:00PM, complete, notification NX3419
+hqcooney, 10/27/2016 10:59:13PM, complete, notification NX3419
+hflovell, 07/27/2015 08:44:46PM, complete, notification NX3419
+pdferrari, 07/01/2017 10:01:57AM, complete, notification NX3419
+hqcooney, 11/20/2016 06:53:29PM, complete, notification NX3419
+pdferrari, 11/17/2015 11:17:49PM, complete, notification NX3419
+gphsu, 11/27/2017 05:13:38PM, complete, notification NX2024
+gphsu, 09/20/2016 05:41:57PM, complete, message M4208
+hflovell, 06/11/2017 09:50:27PM, complete, LDL
+akbonilla, 08/06/2015 04:50:52AM, complete, ICD-9 Code 1308
+hflovell, 10/22/2017 02:42:35AM, cancel, physician specialty
+gphsu, 08/04/2015 01:39:35PM, cancel, notification NX4486
+akbonilla, 01/14/2017 09:09:53PM, cancel, message M4624
+hflovell, 04/27/2015 07:22:13PM, cancel, appointment A000662
+akbonilla, 03/08/2015 12:43:58PM, cancel, ICD-10 Code 388
+akbonilla, 04/21/2015 08:42:07PM, assign, system alert CA01375
+akbonilla, 05/11/2015 07:04:41PM, assign, system alert CA01375
+gphsu, 10/15/2017 12:15:49PM, assign, system alert CA01375
+hqcooney, 08/01/2017 10:18:15PM, assign, LOINC code 253
+gphsu, 09/21/2017 10:15:52PM, assign, LOINC code 253
+akbonilla, 04/19/2015 11:53:10PM, access, system alert CA01903
+gphsu, 10/03/2015 10:22:45PM, access, system alert CA00383
+hflovell, 12/07/2017 07:37:10AM, access, office visit OV01984
+akbonilla, 10/21/2017 01:27:45PM, access, notification NX1132
+akbonilla, 03/04/2016 02:39:08AM, access, notification NX0835
+gphsu, 07/09/2015 03:23:22PM, access, appointment A002943
+gphsu, 09/24/2016 07:01:26PM, access, appointment A002943
+hqcooney, 10/13/2015 01:53:07AM, access, appointment A002943
+pdferrari, 02/08/2016 05:06:51AM, access, appointment A002943
+hflovell, 03/23/2017 08:13:08AM, access, appointment A002943
+hqcooney, 11/12/2016 08:03:04PM, access, appointment A002943
+hflovell, 11/05/2017 08:04:45AM, access, appointment A002943
+pdferrari, 06/16/2016 02:25:57PM, access, appointment A002943
+akbonilla, 11/07/2017 01:00:31PM, access, appointment A002943
+hflovell, 05/11/2015 08:26:05AM, access, appointment A002943
+gphsu, 06/24/2015 05:45:38AM, access, appointment A000955
+hflovell, 01/08/2017 02:52:29AM, access, ICD-9 Code 853
+gphsu, 05/18/2015 02:04:01AM, access, ICD-9 Code 853
+pdferrari, 10/20/2017 10:16:14PM, access, ICD-9 Code 853
+akbonilla, 03/14/2016 05:02:57PM, access, ICD-9 Code 853
+hqcooney, 11/01/2017 05:24:47PM, access, ICD-9 Code 853
+hqcooney, 10/23/2017 06:22:16AM, access, ICD-9 Code 853
+pdferrari, 11/10/2016 04:10:41PM, access, ICD-9 Code 853
+hqcooney, 03/20/2017 04:24:17PM, access, ICD-9 Code 853
+gphsu, 03/11/2017 08:09:47AM, access, ICD-9 Code 853
+akbonilla, 03/11/2017 09:37:11PM, access, ICD-9 Code 853
+hflovell, 05/23/2015 10:07:33PM, access, ICD-9 Code 853
+hflovell, 08/19/2017 10:34:15PM, access, ICD-9 Code 853
+hflovell, 06/27/2017 01:13:19PM, access, ICD-9 Code 853
+hqcooney, 08/14/2016 06:03:54AM, access, ICD-9 Code 853
+hflovell, 06/14/2016 05:30:02AM, access, ICD-9 Code 853
+hflovell, 07/24/2017 02:52:00PM, access, ICD-9 Code 202
+akbonilla, 06/09/2016 07:29:48AM, access, ICD-9 Code 1203
+gphsu, 12/24/2015 03:34:52AM, access, ICD-9 Code 1203
+akbonilla, 10/14/2015 09:55:17AM, access, ICD-9 Code 1203
+akbonilla, 06/20/2016 04:06:21AM, access, ICD-9 Code 1203
+gphsu, 02/10/2017 08:08:08PM, access, ICD-9 Code 1203
+gphsu, 12/01/2015 02:48:58PM, access, ICD-9 Code 1203
+pdferrari, 01/18/2017 03:17:51AM, access, ICD-9 Code 1203
+hflovell, 12/14/2017 05:31:09AM, access, ICD-9 Code 1203
+akbonilla, 02/27/2015 02:11:28PM, access, ICD-9 Code 1203
+gphsu, 09/26/2016 05:05:10AM, access, ICD-9 Code 1203
+gphsu, 09/09/2016 05:38:08AM, access, ICD-9 Code 1203
+hqcooney, 04/09/2016 09:15:03PM, access, ICD-9 Code 1203
+gphsu, 02/14/2015 01:28:26PM, access, ICD-9 Code 1203
+hqcooney, 07/04/2015 11:30:46PM, access, ICD-9 Code 1203
+akbonilla, 08/12/2015 04:15:32AM, access, ICD-9 Code 1203
+pdferrari, 01/07/2015 06:12:25PM, access, ICD-9 Code 1203
+hflovell, 05/27/2015 01:07:09AM, access, ICD-9 Code 1203
+pdferrari, 01/01/2016 08:37:14AM, access, ICD-9 Code 1203
+gphsu, 06/23/2016 06:33:09AM, access, ICD-9 Code 1203
+hqcooney, 11/27/2016 04:35:30AM, access, ICD-9 Code 1203
+gphsu, 07/21/2016 08:30:14PM, access, ICD-9 Code 1203
+hflovell, 04/03/2017 09:56:27PM, access, ICD-9 Code 1203
+hflovell, 10/27/2017 06:04:01AM, access, ICD-9 Code 1203
+akbonilla, 07/11/2015 03:14:30AM, access, ICD-9 Code 1203
+hqcooney, 06/06/2015 07:11:29PM, access, ICD-9 Code 1203
+gphsu, 06/04/2017 06:27:15AM, access, ICD-9 Code 1203
+gphsu, 12/07/2015 08:28:09PM, access, ICD-9 Code 1203
+akbonilla, 05/21/2015 04:16:07AM, access, ICD-9 Code 1203
+hqcooney, 06/18/2015 09:28:53AM, access, ICD-9 Code 1203
+pdferrari, 05/05/2016 06:21:10PM, access, ICD-9 Code 1203
+gphsu, 02/16/2017 03:30:08PM, access, ICD-9 Code 1203
+pdferrari, 01/25/2015 01:53:48AM, access, ICD-9 Code 1203
+akbonilla, 10/22/2017 02:08:30AM, access, ICD-9 Code 1203
+pdferrari, 02/10/2016 05:48:21AM, access, ICD-9 Code 1203
+hflovell, 05/19/2015 10:25:42PM, access, ICD-9 Code 1203
+hflovell, 11/05/2015 09:28:47PM, access, ICD-9 Code 1203
+gphsu, 03/19/2015 11:06:19AM, access, ICD-9 Code 1203
+akbonilla, 02/07/2015 03:12:26AM, access, ICD-9 Code 1203
+hflovell, 07/07/2016 07:18:36PM, access, ICD-9 Code 1203
+pdferrari, 06/13/2016 11:30:35AM, access, ICD-9 Code 1203
+hqcooney, 10/21/2016 05:36:54PM, access, ICD-9 Code 1203
+hqcooney, 01/13/2017 01:12:46AM, access, ICD-9 Code 1203
+gphsu, 01/03/2016 05:40:34AM, access, ICD-9 Code 1203
+pdferrari, 10/03/2016 04:17:57AM, access, ICD-9 Code 1203
+akbonilla, 10/20/2015 10:25:14PM, access, ICD-9 Code 1203
+gphsu, 08/24/2016 04:41:28AM, access, ICD-9 Code 1203
+akbonilla, 11/25/2016 02:32:48AM, access, ICD-9 Code 1203
