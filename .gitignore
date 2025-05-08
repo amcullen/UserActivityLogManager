@@ -1,1 +1,44 @@
+/bin/# Compiled class files
+*.class
+
+# Log files
+*.log
+hs_err_*.log
+replay_*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Build directories
 /bin/
+/build/
+/target/
+
+# OS files
+.DS_Store
+Thumbs.db
